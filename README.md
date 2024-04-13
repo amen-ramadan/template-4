@@ -4,12 +4,13 @@
 
 ## Overview
 
-"Dashboard" is a clean and simple project built using HTML and CSS. It serves as a demonstration of well-organized and structured code. The project contains multiple pages, including the index, courses, files, friends, plans, profile, and settings pages.
+"Dashboard" is a clean and simple project built using HTML and CSS. It serves as a demonstration of well-organized and structured code. The project contains multiple pages, including the index, courses, files, friends, plans, profile, and settings pages. It is fully responsive and can adapt to various screen sizes.
 
 ## Features
 
 - **HTML and CSS**: The project is built entirely using HTML and CSS.
 - **Clean Code**: Demonstrates clean and well-structured code for better maintainability.
+- **Fully Responsive**: The dashboard is responsive and can adapt to all screen sizes.
 - **Multiple Pages**: Includes various pages like index, courses, files, friends, plans, profile, and settings.
 
 ## Pages
